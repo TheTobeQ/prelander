@@ -25,3 +25,4 @@ targets:
       - RoomPlan.framework
       - ARKit.framework
       - RealityKit.framework
+      - QuickLook.framework
